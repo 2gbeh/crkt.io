@@ -1,2 +1,2 @@
 # cardinal
-Personal Income Management Solution
+Personal Income Management Software
