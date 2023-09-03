@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "crkt.io",
+    "slug": "crkt-io",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#feb000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#feb000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "News aggregator powered by OpenAI",
+    "githubUrl": "https://github.com/hwplabs/crkt.io",
+    "extra": {
+      "eas": {
+        "projectId": "3ec3d601-ef99-445a-83d0-b9fab09d8124"
+      }
+    }
+  }
+}
