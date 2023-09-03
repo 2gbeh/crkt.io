@@ -1,2 +1,2 @@
-# cardinal
+# fedora 
 Personal Income Management Software
