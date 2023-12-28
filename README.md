@@ -1,2 +1,2 @@
-# fedora
-Personal Income Management App
+# crkt.io
+News Aggregator powered by OpenAI
